@@ -13,7 +13,7 @@ const Intro2 = ({ sliderRef }) => {
                 <h6>IT Consulting Agency</h6>
               </div>
               <h1 className="mb-10 fw-600">
-                <span className="color-font">Cybector</span> , Unique Dev
+                <span className="color-font">Spider Studios</span> , Unique Dev
                 Agency.
               </h1>
               <p>

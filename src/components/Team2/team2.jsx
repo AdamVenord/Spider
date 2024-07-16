@@ -48,7 +48,7 @@ const Team2 = () => {
                       <use xlinkHref="#circlePath3" fill="none" />
                       <text fill="#fff">
                         <textPath xlinkHref="#circlePath3">
-                          CEO Cybector CEO Cybector
+                          CEO Spider Studios CEO Spider Studios
                         </textPath>
                       </text>
                     </g>
@@ -56,7 +56,7 @@ const Team2 = () => {
                 </div>
                 <div className="info">
                   <h6>Michael Brown</h6>
-                  <span>CEO Cybector</span>
+                  <span>CEO Spider Studios</span>
                 </div>
               </div>
             </div>
