@@ -17,7 +17,7 @@ const FooterArch = () => {
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
                     <h6>Officeal Address</h6>
-                    <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                    <p>9661 S Kalina Way apt 2-108, Sandy, UT 84092</p>
                   </div>
                 </li>
                 <li>
@@ -31,7 +31,7 @@ const FooterArch = () => {
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+87986451666</p>
+                    <p>+1 801-750-2805</p>
                   </div>
                 </li>
               </ul>
